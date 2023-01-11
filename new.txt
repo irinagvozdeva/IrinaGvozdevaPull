@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello создаем конфликт
+=======
+Hello
+ conflict
+>>>>>>> develop
